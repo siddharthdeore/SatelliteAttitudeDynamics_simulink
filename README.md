@@ -4,4 +4,4 @@
 
 Simulink model for Quaternion based Satellite Attitude dynamics and control
 
-JPL Quaternion representaion is followed 
+JPL Quaternion representaion is followed to implement Wie1989's feedback control
